@@ -1,7 +1,12 @@
 # Residencia-Profesional
 
 
-
+Normal 3000 muestras 
+https://1drv.ms/f/c/560c49e90d2bea99/EuXCzTJ4M9RBtcmLsCYjapYBGmzD--5_R1_whFpXFuB7rQ?e=le7rKD
+Neumonía 3000 muestras
+https://1drv.ms/f/c/560c49e90d2bea99/EvOFZfNk0ipEhdhu7Tx-dXgBVh_e1YufXoGDIaT8AcsNww?e=7CKToc
+Presentacion 
+https://1drv.ms/u/c/560c49e90d2bea99/EXtyR_5OyzpGn2JswIEDVMcBsXEXNdS0EfEvhazyF9JCag?e=eNww3d 
 # Segmentación Automatica de imágenes con aprendizaje profundo
 
 ## Estudiante
