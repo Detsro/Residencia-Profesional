@@ -9,8 +9,8 @@ Presentacion
 https://1drv.ms/u/c/560c49e90d2bea99/EXtyR_5OyzpGn2JswIEDVMcBsXEXNdS0EfEvhazyF9JCag?e=eNww3d 
 
 Presentacion Powerpoint
-https://1drv.ms/v/c/560c49e90d2bea99/EabF6xIGeTlJvMo1PKFtn-sB1qNV6QCfYhLqxyW_bQd0og?e=4ybwnf
-# Segmentación Automatica de imágenes con aprendizaje profundo
+[https://1drv.ms/v/c/560c49e90d2bea99/EabF6xIGeTlJvMo1PKFtn-sB1qNV6QCfYhLqxyW_bQd0og?e=4ybwnf
+# Segmentación Automatica de imágenes con aprendizaje profundo](https://1drv.ms/v/c/560c49e90d2bea99/EXYjoaS_zilAiwozI9tiQbwB3tQRdnxLOIvy1sN6Y3KDNw?e=NPmg7n)
 
 ## Estudiante
 Mauricio Jesús Meraz Galeana 18210139  
